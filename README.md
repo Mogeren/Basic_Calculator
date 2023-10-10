@@ -1,12 +1,10 @@
 Pre-work - Basic Calculator
 
-Basic Calculator is a simple web application built using JavaScript to perform basic arithmetic calculations. It was created as part of a learning project and submitted for CodePath's SITE Program.
+Basic Calculator is a simple web application built using JavaScript to perform basic arithmetic calculations. It was created as part of a learning project.
 
 Submitted by: Moises Rendiles
 
-Time spent: 12 hours spent in total
-
-Link to project: (insert your link here, should start with https://github.com/...)
+Time spent: 5 hours spent in total
 
 Features
 
